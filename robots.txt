@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rathunde.com/sitemap.xml
