@@ -1,0 +1,17 @@
+:root{--navy:#2b211f;--blue:#a52f38;--cyan:#d9573f;--ink:#2a2320;--muted:#74665e;--pale:#eaded0;--light:#292321;--white:#f6efe5;--shadow:0 18px 50px rgba(24,17,14,.2)}
+body{background:#d9cec0;color:var(--ink)}
+.header{background:rgba(218,207,193,.96);border-bottom-color:#baa99a}
+.nav nav>a{color:#352b27}.button{background:#a52f38;border-color:#a52f38}.button:hover{box-shadow:0 8px 24px rgba(165,47,56,.3)}
+.button.secondary{background:transparent;color:#3a2d29!important;border-color:#917d70}
+.hero{color:#f2e7d9;background:radial-gradient(circle at 78% 20%,rgba(181,55,61,.24),transparent 30%),linear-gradient(135deg,#211c1a,#352521 68%,#4a2828)}
+.hero h1,.hero-card h2{color:#fff4e8}.lead{color:#d5c7b9}.micro{color:#bdaea0}.eyebrow{color:#d9573f}
+.hero-card{background:#151311;border:1px solid #543a34;box-shadow:0 24px 70px rgba(0,0,0,.34)}.status{color:#f1b6ad}.status i{background:#d9573f;box-shadow:0 0 0 5px rgba(217,87,63,.15)}
+.trust-strip{background:#c9b9a8;border-color:#a99583}.trust-grid div,.trust-grid div:first-child{border-color:#ad9a88}.trust-grid strong{color:#3a2925}.trust-grid span{color:#65574f}
+#servicos{background:#e4d9cc}.section h2{color:#3a2925}.cards article{background:#f0e7dc;border-color:#c6b5a5}.cards article:hover{border-color:#a46b64}.cards h3{color:#4a2d29}.cards p,.section-intro{color:#6d5f57}
+.tinted{background:#292321;color:#d9cbbd}.tinted h2{color:#f3e9df}.steps li{background:#382f2b;border-color:#51433c}.steps b{background:#5a282b;color:#f7c4b8}.steps h3{color:#f5eadf}.steps p{color:#c4b4a7}
+.security{background:#cfc1b1}.security p{color:#5d514a}.note{background:#e7d9ca}.note h3{color:#4a2d29}
+.dark-section{background:linear-gradient(135deg,#281b1a,#4b2528);color:#dfd0c3}.dark-section h2{color:#fff1e4}.eyebrow.light{color:#ef8574}.values span{border-color:#805050;color:#edc9c2}
+.contact{background:#b9a796}.contact-box{background:#dfd2c4;border-color:#a99482}.contact-actions small{color:#63554d}
+footer{background:#171412;color:#bfb0a3}.footer-grid img{filter:none;opacity:1}.footer-grid strong{color:#f4e7da}
+.floating{background:#982f37}.text-link{color:#8f2932}
+@media(max-width:900px){.nav nav{background:#d9cdbf}.menu-button{background:#7a1f2b}.nav nav>a{color:#342924}}
